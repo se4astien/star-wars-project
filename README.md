@@ -1,4 +1,10 @@
 ## Star Wars Project
 
-Star Wars project: integration of a sketch model with a scroll effect on mobile and parallax on different elements of the page
-HTML / CSS / JS
+Integration in responsive since a sketch model design.
+Add a scroll effect for mobile and parallax effect on different section of the page.
+
+Using HTML, CSS and JS for animation.
+
+
+## Online
+https://star-wars-project-html-css-js.netlify.app/
